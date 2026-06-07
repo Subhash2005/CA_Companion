@@ -21,7 +21,7 @@
       "package": "com.subhash14.cacompanion"
     },
     "web": {
-      "output": "static",
+      "output": "server",
       "favicon": "./assets/images/favicon.png"
     },
     "plugins": [
